@@ -1,3 +1,9 @@
 theme: jekyll-theme-slate
+# Text at top of page
 title: Thomas Griffith
+# Text underneath title
 description: Projects and More
+
+# hide "View on Github" button
+github:
+  is_project_page: false
